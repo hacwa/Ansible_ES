@@ -1,0 +1,19 @@
+Host elk-master-01
+  Hostname 10.0.27.2
+  User root
+Host elk-master-02
+  Hostname 10.0.27.3
+  User root
+Host elk-master-03
+  Hostname 10.0.27.4
+  User root
+
+Host elk-data-01
+  Hostname 10.0.27.5
+  User root
+Host elk-data-02
+  Hostname 10.0.27.6
+  User root
+Host elk-data-03
+  Hostname 10.0.27.7
+  User root
